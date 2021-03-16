@@ -75,6 +75,13 @@ ul li{
     padding: 50px;
 }
 
-.sobre-content-1{
+.text-style{
     color: white;
+   
+}
+
+.center-text{
+    justify-content: center;
+    align-items: center;
+    display: inline;
 }
